@@ -60,8 +60,8 @@ O projeto apresenta as seguintes análises:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Nicollaxs/Data-Analysis-Netflix.git
-cd Data-Analysis-Netflix
+git clone https://github.com/Nicollaxs/Data-Analysis.git
+cd Data-Analysis
 ```
 
 2. Instale as dependências usando Poetry:
